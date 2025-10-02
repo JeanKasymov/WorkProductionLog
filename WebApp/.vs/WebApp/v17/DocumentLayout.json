@@ -1,30 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jean\\source\\repos\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\constructionjournaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\constructionjournaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\webapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\jean\\source\\repos\\webapp\\webapp\\webapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\llm\\documentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\llm\\documentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\materialusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\materialusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\materialdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\materialdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\constructionschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\constructionschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\workjournalphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\workjournalphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\workjournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\workjournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\contractworktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\contractworktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|c:\\users\\zh.kasymov\\source\\repos\\other\\workproductionlog\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35B60499-876F-4BEC-8962-D4716DA7FCCA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,11 +90,180 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConstructionJournalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\ConstructionJournalDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp\\ConstructionJournalDbContext.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\ConstructionJournalDbContext.cs",
+              "RelativeToolTip": "WebApp\\ConstructionJournalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:56:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DocumentAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\LLM\\DocumentAnalysisResult.cs",
+              "RelativeDocumentMoniker": "WebApp\\LLM\\DocumentAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\LLM\\DocumentAnalysisResult.cs",
+              "RelativeToolTip": "WebApp\\LLM\\DocumentAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:48:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaterialUsage.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\MaterialUsage.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\MaterialUsage.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\MaterialUsage.cs",
+              "RelativeToolTip": "WebApp\\Models\\MaterialUsage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:47.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\MaterialDelivery.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\MaterialDelivery.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\MaterialDelivery.cs",
+              "RelativeToolTip": "WebApp\\Models\\MaterialDelivery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Material.cs",
+              "RelativeToolTip": "WebApp\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConstructionSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\ConstructionSchedule.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ConstructionSchedule.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\ConstructionSchedule.cs",
+              "RelativeToolTip": "WebApp\\Models\\ConstructionSchedule.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:05.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DailyReport.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\DailyReport.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\DailyReport.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\DailyReport.cs",
+              "RelativeToolTip": "WebApp\\Models\\DailyReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkJournalPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkJournalPhoto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\WorkJournalPhoto.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkJournalPhoto.cs",
+              "RelativeToolTip": "WebApp\\Models\\WorkJournalPhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkJournalEntry.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkJournalEntry.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\WorkJournalEntry.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkJournalEntry.cs",
+              "RelativeToolTip": "WebApp\\Models\\WorkJournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkType.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkType.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\WorkType.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\WorkType.cs",
+              "RelativeToolTip": "WebApp\\Models\\WorkType.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:44:59.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractWorkType.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\ContractWorkType.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ContractWorkType.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\ContractWorkType.cs",
+              "RelativeToolTip": "WebApp\\Models\\ContractWorkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:44:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Contract.cs",
+              "RelativeToolTip": "WebApp\\Models\\Contract.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA0wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:43:58.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Models\\Project.cs",
+              "RelativeToolTip": "WebApp\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:42:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\appsettings.json",
               "RelativeDocumentMoniker": "WebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\appsettings.json",
               "RelativeToolTip": "WebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -54,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -80,39 +297,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\Program.cs",
               "RelativeToolTip": "WebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:01:24.763Z"
+              "WhenOpened": "2025-10-01T16:01:24.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebApp\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\WeatherForecast.cs",
-              "RelativeToolTip": "WebApp\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:01:21.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WebApp.http",
-              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\WebApp.http",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\WebApp.http",
               "RelativeDocumentMoniker": "WebApp\\WebApp.http",
-              "ToolTip": "C:\\Users\\Jean\\source\\repos\\WebApp\\WebApp\\WebApp.http",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\Other\\WorkProductionLog\\WebApp\\WebApp\\WebApp.http",
               "RelativeToolTip": "WebApp\\WebApp.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-01T16:01:07.661Z"
+              "WhenOpened": "2025-10-01T16:01:07.661Z",
+              "EditorCaption": ""
             }
           ]
         }
